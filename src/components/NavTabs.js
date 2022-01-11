@@ -3,16 +3,17 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 
 function NavTabs() {
   return (
-    <NavTabs bg="primary" variant="dark">
+    <Navbar bg="primary" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+        <Navbar.Brand href="#home">Alfonso Robles</Navbar.Brand>
         <Nav className="me-auto">
-          <Nav.Link href="#home">Home</Nav.Link>
-          <Nav.Link href="#features">Features</Nav.Link>
-          <Nav.Link href="#pricing">Pricing</Nav.Link>
+          <Nav.Link href="#home">About Me</Nav.Link>
+          <Nav.Link href="#features">Resume</Nav.Link>
+          <Nav.Link href="#pricing">Contact</Nav.Link>
+          <Nav.Link href="#pricing">Portfolio</Nav.Link>
         </Nav>
       </Container>
-    </NavTabs>
+    </Navbar>
   )
 }
-export default NavTabs;
+export default NavTabs
