@@ -4,35 +4,35 @@
 		"name": "BudgetTracker",
 		"site": "https://budgettracker1707.herokuapp.com/",
 		"github": "https://github.com/fons3517/Budget_Tracker",
-		"image": "/images/portfolio/budget.png"
+		"image": "/images/portfolio/BudgetTracker.jpg"
 	},
 	{
 		"id": 2,
 		"name": "Clique",
 		"site": "https://obscure-scrubland-68562.herokuapp.com/",
 		"github": "https://github.com/fons3517/Clique#project_title",
-		"image": "Clique"
+		"image": "/images/portfolio/CliqueHomepage.jpg"
 	},
 	{
 		"id": 3,
 		"name": "FitnessTracker",
 		"site": "https://radiant-ridge-57533.herokuapp.com/",
 		"github": "https://github.com/fons3517/FitnessKeeper",
-		"image": "FitnessTracker"
+		"image": "/images/portfolio/FitnessTracker.jpg"
 	},
 	{
 		"id": 4,
 		"name": "NoteTaker",
 		"site": "https://shielded-badlands-98517.herokuapp.com/notes",
 		"github": "https://github.com/fons3517/Note_TakerExpress",
-		"image": "NoteTaker"
+		"image": "/images/portfolio/NoteTaker1.jpg"
 	},
 	{
 		"id": 5,
 		"name": "PrimeTime",
 		"site": "https://watch.screencastify.com/v/JR5J0pEncaf5cBiIntFN",
 		"github": "https://github.com/fons3517/Team-Profile-Generator",
-		"image": "NoteTaker"
+		"image": "/images/portfolio/PrimeTime.jpg"
 	},
 
 	{
@@ -40,6 +40,6 @@
 		"name": "TeamProfileGenerator",
 		"site": "https://fons3517.github.io/Project1-PrimeTime/",
 		"github": "https://github.com/fons3517/Project1-PrimeTime",
-		"image": "TeamProfileGen"
+		"image": "/images/portfolio/TeamProfileGen.jpg"
 	}
 ]
