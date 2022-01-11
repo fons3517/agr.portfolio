@@ -5,12 +5,12 @@ function NavTabs() {
   return (
     <Navbar bg="primary" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">Alfonso Robles</Navbar.Brand>
+        <Navbar.Brand href="/">Alfonso Robles</Navbar.Brand>
         <Nav className="me-auto">
-          <Nav.Link href="#home">About Me</Nav.Link>
-          <Nav.Link href="#features">Resume</Nav.Link>
-          <Nav.Link href="#pricing">Contact</Nav.Link>
-          <Nav.Link href="#pricing">Portfolio</Nav.Link>
+          <Nav.Link href="aboutme">About Me</Nav.Link>
+          <Nav.Link href="#resume">Resume</Nav.Link>
+          <Nav.Link href="#contact">Contact</Nav.Link>
+          <Nav.Link href="#portfolio">Portfolio</Nav.Link>
         </Nav>
       </Container>
     </Navbar>
