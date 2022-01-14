@@ -7,12 +7,11 @@ function Portfolio() {
       <Card.Img variant="top" src={project.image} />
       <Card.Body>
         <Card.Title>{project.name}</Card.Title>
-
       </Card.Body>
 
       <Card.Body>
         <Card.Link href={project.github}>Github</Card.Link>
-        <Card.Link href={project.site}>ALiveink</Card.Link>
+        <Card.Link href={project.site}>Application Link</Card.Link>
       </Card.Body>
     </Card>))}
 
