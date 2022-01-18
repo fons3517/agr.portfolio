@@ -16,7 +16,7 @@ function Contact() {
         </Form.Group>
 
         <Form.Group>
-          <Form.Group.Text></Form.Group.Text>
+          <Form.Group.Text>Enter your message here</Form.Group.Text>
           <Form.Control type="textarea" placeholder="Type message here" aria-label="Message" />
         </Form.Group>
 
