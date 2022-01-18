@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/agr.portfolio/static/css/main.04179b6f.css",
+    "main.js": "/agr.portfolio/static/js/main.7d1c8e97.js",
+    "static/js/787.4f3229df.chunk.js": "/agr.portfolio/static/js/787.4f3229df.chunk.js",
+    "index.html": "/agr.portfolio/index.html",
+    "main.04179b6f.css.map": "/agr.portfolio/static/css/main.04179b6f.css.map",
+    "main.7d1c8e97.js.map": "/agr.portfolio/static/js/main.7d1c8e97.js.map",
+    "787.4f3229df.chunk.js.map": "/agr.portfolio/static/js/787.4f3229df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.7d1c8e97.js"
+  ]
+}
