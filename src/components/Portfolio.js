@@ -3,7 +3,7 @@ import projects from "./projects.json";
 import { Card } from "react-bootstrap"
 function Portfolio() {
   return (<div className="d-flex flex-wrap">
-    {projects.map(project => (<Card style={{ width: '18rem' }}>
+    {projects.map((project, key) => (<Card key={key} style={{ width: '18rem' }}>
       <Card.Img variant="top" src={project.image} />
       <Card.Body>
         <Card.Title>{project.name}</Card.Title>
